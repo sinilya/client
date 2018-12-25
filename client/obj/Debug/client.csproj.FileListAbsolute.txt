@@ -1,0 +1,13 @@
+C:\Users\ilya\source\repos\client\client\bin\Debug\client.exe.config
+C:\Users\ilya\source\repos\client\client\bin\Debug\client.exe
+C:\Users\ilya\source\repos\client\client\bin\Debug\client.pdb
+C:\Users\ilya\source\repos\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\ilya\source\repos\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ilya\source\repos\client\client\obj\Debug\client.exe
+C:\Users\ilya\source\repos\client\client\obj\Debug\client.pdb
+C:\Users\ilya\source\repos\client\client\bin\Debug\MathNet.Numerics.dll
+C:\Users\ilya\source\repos\client\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilya\source\repos\client\client\bin\Debug\MathNet.Numerics.xml
+C:\Users\ilya\source\repos\client\client\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ilya\source\repos\client\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilya\source\repos\client\client\obj\Debug\client.csproj.CopyComplete
